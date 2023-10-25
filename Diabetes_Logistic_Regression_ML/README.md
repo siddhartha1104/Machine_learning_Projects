@@ -1,6 +1,6 @@
 # Diabetes Prediction with Machine Learning
 
-![Diabetes](diabetes.jpg)
+![Diabetes](https://github.com/siddhartha1104/Machine_learning_Projects/blob/ea7b5266358565789f82d9e252112adf6c88d38f/Diabetes_Logistic_Regression_ML/Diabetes-prediction-using-Machine-Learning.jpg)
 
 Welcome to the "Diabetes Prediction with Machine Learning" project. In this repository, I have developed predictive models to detect the onset of diabetes using machine learning techniques. Early diagnosis of diabetes can lead to proactive healthcare interventions, making a significant impact on patient outcomes.
 
