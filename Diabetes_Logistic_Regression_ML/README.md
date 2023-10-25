@@ -9,7 +9,6 @@ Welcome to the "Diabetes Prediction with Machine Learning" project. In this repo
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Results](#results)
 
 
 ## Project Overview
@@ -46,11 +45,6 @@ To get started with the project, follow these steps:
    ```
 
 3. Run the Jupyter Notebook files to explore the project and models.
-
-
-## Results
-
-We have achieved promising results in our predictive modeling for diabetes onset. The models' performance can be found in the `model_evaluation.ipynb` notebook. Our work serves as a starting point for further research and applications in healthcare.
 
 ## Contributing
 
