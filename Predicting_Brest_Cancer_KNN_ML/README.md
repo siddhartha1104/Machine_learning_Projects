@@ -19,5 +19,5 @@ Contributions and collaborations are welcomed with open arms. Feel free to open 
 🌐 **Get in Touch:**
 For inquiries or to explore collaboration opportunities, please reach out. Let's continue pushing the boundaries of what Machine Learning can achieve for a healthier world.
 
-
-
+- **Gmail:** siddhartha.pathak0216@gmail.com
+  
