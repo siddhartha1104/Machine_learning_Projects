@@ -7,8 +7,6 @@
 
 The goal of this project is to use SVM algorithms to perform classification on letters, ensuring precise recognition through innovative machine learning techniques. With the utilization of SVC, the project aims to classify letters effectively, providing a deeper understanding of the classification process.
 
-## Methodology
-
 ### Algorithms Used
 - Support Vector Machines (SVMs)
   - Support Vector Classification (SVC)
