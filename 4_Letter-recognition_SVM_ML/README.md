@@ -1,6 +1,7 @@
 # Alphabetic Recognition Project
 ![Letter Recognition](https://raw.githubusercontent.com/siddhartha1104/Machine_learning_Projects/main/4_Letter-recognition_SVM_ML/IMG_letter-recognition.jpg)
-Welcome to the Alphabetic Recognition project, where the power of Support Vector Machines (SVMs), specifically Support Vector Classification (SVC), has been harnessed to accurately classify letters. 📈
+
+- Welcome to the Alphabetic Recognition project, where the power of Support Vector Machines (SVMs), specifically Support Vector Classification (SVC), has been harnessed to accurately classify letters. 📈
 
 ## Overview
 
